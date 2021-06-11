@@ -1,12 +1,11 @@
 ### Hi there 👋
-### i'm Andre Oliveira, do you wanna know some fun facts about this profile or about me?
+### i'm Diego Noronha, how about knowing a little more about me ?
 
-On this profile you will find many repositories that has:
+Feel free to chat about the repositories and use your will:
 
-- Open Source Code (Obviously)
-- Many different languages like: Ruby, JavaScript, Go, Java and many others
-- New and old technologies that i'm studying or working with
-- A lot of crazy code and i have sure that they will blow your mind (or not LMAO)
+- Falling in love with Dev Ops and Open Source Code always
+- Many different languages like: Ruby, PHP, Javascript
+- I love new challenges and creating projects that impact my society 
 
 ### Languages & Tools
 
