@@ -1,0 +1,19 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    name: Generate cards
+    steps:
+      - uses: vn7n24fr/profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN || secrets.GITHUB_TOKEN }}
+          UTC_OFFSET: -4

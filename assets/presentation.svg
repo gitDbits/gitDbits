@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" width="1000" height="290" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <style>
+    .hi { fill: #8b949e; }
+    .name { fill: #ffffff; }
+    .sub { fill: #c9d1d9; }
+    @media (prefers-color-scheme: light) {
+      .hi { fill: #57606a; }
+      .name { fill: #1f2328; }
+      .sub { fill: #3d444d; }
+    }
+  </style>
+  <text class="hi" x="20" y="48" font-size="38" font-weight="300">hi, i’m</text>
+  <text class="name" x="16" y="165" font-size="96" font-weight="800">DIEGO NORONHA</text>
+  <text class="sub" x="20" y="232" font-size="25" font-weight="400">Software Developer  |  Ruby On Rails  •  JavaScript  •  React  •  DevOps</text>
+</svg>
