@@ -16,8 +16,10 @@
   <img src="./assets/javascript.svg" width="34" height="34" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/typescript.svg" width="34" height="34" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/react.svg" width="34" height="34" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/python.svg" width="34" height="34" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/postgresql.svg" width="34" height="34" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/terraform.svg" width="34" height="34" alt="Terraform" title="Terraform" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/cloudflare.svg" width="34" height="34" alt="Cloudflare" title="Cloudflare" />&nbsp;&nbsp;&nbsp;
   <img src="./assets/docker.svg" width="34" height="34" alt="Docker" title="Docker" />
 </p>
 
