@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/currently_line.svg" alt="Open Source | Fun and Useful Software | Currently working at @m4u_oficial" width="100%" />
+  <img src="./assets/currently_line.svg" alt="Open Source | Fun and Useful Software | Currently working at Governo do Estado de Rondônia" width="100%" />
 </p>
 
 <br />

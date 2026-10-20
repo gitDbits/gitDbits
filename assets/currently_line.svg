@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 110" width="1040" height="110" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif">
   <style>
     .t { fill: #ffffff; }
     .m { fill: #c9d1d9; }
@@ -26,5 +26,5 @@
     <rect x="2" y="14" width="52" height="36" rx="5"/><path d="M19 14V8h18v6M2 30h52"/>
   </g>
   <text class="m" x="838" y="44" font-size="15">I’m currently working at</text>
-  <text x="838" y="70" font-size="20" font-weight="700" fill="#539bf5">@m4u_oficial</text>
+  <text x="838" y="70" font-size="20" font-weight="700" fill="#539bf5">Governo do Estado de Rondônia</text>
 </svg>
